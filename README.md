@@ -57,3 +57,14 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+comandos
+
+ng new Soat
+ng g c shared/components/header
+ng g c shared/components/footer
+ng g c shared/layout/main
+ng g c features/register/pages/register-home
+ng g c features/list/pages/list-home
+ng g s core/service/soat
+ng g i core/interfaces/soat
